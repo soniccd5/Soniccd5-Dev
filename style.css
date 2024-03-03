@@ -1,0 +1,21 @@
+.class {
+  color: white;
+  }
+  
+  body {
+  padding: 15px;
+  font-size: medium;
+    background-image: url('http://klubmama.ru/uploads/posts/2022-08/1661889710_49-klubmama-ru-p-podelka-telegram-foto-58.jpg');
+      background-size: 2000px;
+        background-attachment: Fixed;
+      backdrop-filter: blur(5px);
+  }
+    .photo {
+    border-radius: 77px 74px 74px 74px;
+  -moz-border-radius: 77px 74px 74px 74px;
+  -webkit-border-radius: 77px 74px 74px 74px;
+  border: 0px solid #000000;
+      -webkit-box-shadow: 31px 18px 51px -7px rgba(0,0,0,0.71);
+  -moz-box-shadow: 31px 18px 51px -7px rgba(0,0,0,0.71);
+  box-shadow: 31px 18px 51px -7px rgba(0,0,0,0.71);
+    }
